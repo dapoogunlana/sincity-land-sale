@@ -183,6 +183,11 @@ a:hover{
     margin: auto;
     max-width: 450px;
 }
+.max-1000{
+    width: 99%;
+    margin: auto;
+    max-width: 1000px;
+}
 
 .crv-15{
     border-radius: 15px;
