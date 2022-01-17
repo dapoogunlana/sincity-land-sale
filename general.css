@@ -173,6 +173,23 @@ a:hover{
     color: #000;
 }
 
+.max-400{
+    width: 99%;
+    margin: auto;
+    max-width: 400px;
+}
+.max-450{
+    width: 99%;
+    margin: auto;
+    max-width: 450px;
+}
+
+.crv-15{
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 8px 9px rgba(255, 255, 255, 0.1);
+}
+
 .footer{
     background-color: #000;
 }
