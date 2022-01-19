@@ -21,7 +21,7 @@ a:hover{
 }
 .hero {
     min-height: calc(100vh - 60px);
-    background-image: url(./images/bg.jpg);
+    background-image: url(./images/sin-bg-cmp.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 5vh;
@@ -71,6 +71,17 @@ a:hover{
     transition: 0.3s ease;
 }
 .sec-button:hover{
+    border-color: rgb(25, 71, 170);
+    background-color: rgb(25, 71, 170);
+}
+.sec-button-full{
+    background-color: rgba(255, 255, 255, 0.253);
+    border: 2px solid #fff;
+    padding: 10px;
+    transition: 0.3s ease;
+    width: 100%;
+}
+.sec-button-full:hover{
     border-color: rgb(25, 71, 170);
     background-color: rgb(25, 71, 170);
 }
